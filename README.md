@@ -27,5 +27,6 @@
 <a target="_blank" href="https://instagram.com/gabriel_o_vilar?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a target="_blank" href="https://www.linkedin.com/in/gabriel-vilar-71a609238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a target="_blank" href="mailto:gabrielhivilar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
   
 
