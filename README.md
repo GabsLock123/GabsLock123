@@ -4,10 +4,14 @@
 
 - 🔭 Futuro desenvolvedor Full-Stack
 - 🌱 Estudando CSS
+<hr>
 <div>
 <img height="180cm" src = "https://github-readme-stats.vercel.app/api?username=GabsLock123&show_icons=true&theme=dark"/>
+<hr>
 <img height="180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GabsLock123&hide_progress=true"/>
 </div>
+
+<hr>
 
 <div>
 <h3>👇 Linguagens que eu possuo familiaridade 👇<h3>
