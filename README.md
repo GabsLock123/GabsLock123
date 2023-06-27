@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Futuro desenvolvedor Full-Stack
+- 🔭 Futuro desenvolvedor Front-end
 - 🌱 Estudando CSS
 <hr>
 <div>
