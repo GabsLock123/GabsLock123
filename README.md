@@ -14,7 +14,7 @@
 <hr>
 
 <div>
-<h3>👇 Linguagens que eu possuo familiaridade 👇<h3>
+<!--<h3>👇 Linguagens que eu possuo familiaridade 👇<h3>
 <img align="center" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="center" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="center" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -22,7 +22,7 @@
 <h3>👇 Linguagens que eu conheço/utilizei previamente 👇<h3>
 <img align="center" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="center" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
-<img align="center" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
+<img align="center" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />-->
 </div>
 
 ###
