@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Futuro desenvolvedor Front-end
-- 🌱 Estudando CSS
+- 🔭 Futuro desenvolvedor Back-end
+- 🌱 Estudando Java e CSS
 <hr>
 <div>
 <img height="180cm" src = "https://github-readme-stats.vercel.app/api?username=GabsLock123&show_icons=true&theme=dark"/>
